@@ -26,9 +26,8 @@
 | [codex_assets/USER_PROFILE.md](codex_assets/USER_PROFILE.md) | 用户事实库脱敏模板 |
 | [codex_assets/MEMORY_PACKET.md](codex_assets/MEMORY_PACKET.md) | 个性化投喂包脱敏模板 |
 | [codex_assets/MAINTENANCE_PROTOCOL.md](codex_assets/MAINTENANCE_PROTOCOL.md) | 记忆维护协议 |
-| [codex_assets/AUTOMATION_BOUNDARY.md](codex_assets/AUTOMATION_BOUNDARY.md) | 自动化能力边界说明 |
 | [docs/PUBLIC_PRIVATE_STRATEGY.md](docs/PUBLIC_PRIVATE_STRATEGY.md) | 公开结构与隐私保护方案 |
-| [docs/CHAT_RECORD.md](docs/CHAT_RECORD.md) | 对话记录占位说明 |
+| [docs/CHAT_RECORD.md](docs/CHAT_RECORD.md) | 脱敏对话记录 |
 | [tools/checkpoint.ps1](tools/checkpoint.ps1) | checkpoint 辅助脚本 |
 
 ## 核心方法论
